@@ -48,9 +48,7 @@ An end-to-end 31-week financial tracking model and executive dashboard built in 
 
 ---
 
-## 📂 How to View
-* The full financial model and raw ledger are provided in the `.xlsx` workbook file inside this repository.
-* High-resolution dashboard and report views are included in the `.png` files above.
+
 
 💼 Interested in my work? [Hire me on Upwork](https://www.upwork.com/freelancers/~01edd8baecf9e9d6a9) | [Connect on LinkedIn](https://www.linkedin.com/in/chukwuebuka-ugwuoke-60a664419)
 
